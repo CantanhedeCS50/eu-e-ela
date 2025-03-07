@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body{
+    background-color: bisque;
+}
+
+header{
+    color: rgba(131, 38, 77, 0.712);
+    text-align: center;
+}
+
+main{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 20px;
+    min-width: 300px;
+    max-width: 600px;
+    margin: auto;
+}
+
+main h1{
+    color: rgb(88, 82, 73);
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
